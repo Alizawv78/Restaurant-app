@@ -44,11 +44,11 @@ const Footer = () => {
                 <p>Location: ZindaBazar, Sylhet-3100, Bangladesh</p>
               </ListGroupItem>
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Phone: 01712345678</span>
+                <span>Phone: 0933 880 9622</span>
               </ListGroupItem>
 
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Email: example@gmail.com</span>
+                <span>Email: Alizawv78@gmail.com</span>
               </ListGroupItem>
             </ListGroup>
           </Col>
